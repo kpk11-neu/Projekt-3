@@ -11,7 +11,7 @@ namespace projekt_3
     {
         static void Main(string[] args)
         {
-            Enemy nem = new Enemy(100,10,"fiú");
+            Enemy nem = new Enemy(100,10,"fiú", 0);
             nem.Skeleton();
             nem.Magician();
             Console.WriteLine(nem.ToString());
