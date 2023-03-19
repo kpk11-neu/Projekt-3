@@ -1,0 +1,8 @@
+C:\Git\projekt\projekt_3\projekt_3\bin\Debug\projekt_3.exe.config
+C:\Git\projekt\projekt_3\projekt_3\bin\Debug\projekt_3.exe
+C:\Git\projekt\projekt_3\projekt_3\bin\Debug\projekt_3.pdb
+C:\Git\projekt\projekt_3\projekt_3\obj\Debug\projekt_3.csproj.AssemblyReference.cache
+C:\Git\projekt\projekt_3\projekt_3\obj\Debug\projekt_3.csproj.SuggestedBindingRedirects.cache
+C:\Git\projekt\projekt_3\projekt_3\obj\Debug\projekt_3.csproj.CoreCompileInputs.cache
+C:\Git\projekt\projekt_3\projekt_3\obj\Debug\projekt_3.exe
+C:\Git\projekt\projekt_3\projekt_3\obj\Debug\projekt_3.pdb
